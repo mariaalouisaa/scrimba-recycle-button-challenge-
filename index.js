@@ -1,5 +1,7 @@
 const recycleBtn = document.getElementById("recycle-btn");
 recycleBtn.addEventListener("click", recycle);
+const clearBtn = document.getElementById("clear-btn");
+clearBtn.addEventListener("click", clear);
 const recycleSelect = document.getElementById("recycle-select");
 const recycleBin = document.getElementById("recycle-bin");
 const infoParagraph = document.getElementById("info-paragraph");
