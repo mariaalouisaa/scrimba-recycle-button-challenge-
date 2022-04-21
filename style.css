@@ -81,3 +81,7 @@ ul {
   max-height: 90%;
   overflow-y: scroll;
 }
+
+.clear {
+  background-color: green;
+}
